@@ -1,12 +1,12 @@
 ---
 type: weather
-expedition: Denali — West Buttress
+expedition: Denali
 primary_forecast: NWS Anchorage / Alaska Mountain Forecast / NPS bulletin
 season_window: late April to early July
 tags: [weather, denali, alaska]
 ---
 
-# Denali Weather & Conditions
+# Weather & Conditions — Denali
 
 ## Climbing season
 
@@ -19,17 +19,16 @@ tags: [weather, denali, alaska]
 | July (late) | Marginal | Heavily crevassed Kahiltna, route quality poor |
 | Aug–Apr | No | Winter / spring conditions |
 
-`denali_target_window:: mid-May to mid-June (3-week climbs around this window)`
+`denali_target_window:: mid-May to mid-June`
 
-## What "summit success" looks like
+## Summit success rates (NPS data)
 
-The NPS publishes annual summit success data — it varies wildly by year (40% to 65%). The single biggest driver: **weather window at High Camp**. Teams that get a 36-hour clear weather window above 17 Camp typically summit. Teams that don't, don't.
-
-Key data points (rough averages):
 - ~50% of all teams summit
 - ~60% of experienced unguided teams summit
 - ~75% of guided teams summit (more weather flexibility, can pin down longer)
 - Teams that allocate **24+ days** for the trip summit more often than teams that allocate 18
+
+The single biggest driver: **weather window at High Camp**. Teams that get a 36-hour clear weather window above 17 Camp typically summit. Teams that don't, don't.
 
 ## Primary forecast sources
 
@@ -108,4 +107,4 @@ Key data points (rough averages):
 - **[NPS Annual Mountaineering Reports](https://www.nps.gov/dena/learn/management/mountaineeringreports.htm)** — invaluable for trip lessons learned, near-misses, accidents
 
 ## Cross-references
-[[Denali — West Buttress]] · [[Denali Gear List]] · [[Health & Acclimatization]] · [[Acclimatization Strategy]] · [[Insurance]]
+[[index|West Buttress route]] · [[Gear List]] · [[Health & Acclimatization]] · [[Insurance]]

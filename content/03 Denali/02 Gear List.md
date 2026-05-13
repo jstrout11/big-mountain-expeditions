@@ -1,12 +1,12 @@
 ---
 type: gear_list
-expedition: Denali — West Buttress
+expedition: Denali
 weight_target_kg: 60-70 (pack + sled combined)
 status: draft
 tags: [gear, denali, expedition]
 ---
 
-# Denali Gear List
+# Gear List — Denali
 
 The serious one. Total weight (pack + sled) **120–140 lb / 55–63 kg per person** for a 21-day unguided trip. Pack: 60–70 lb. Sled: 50–80 lb.
 
@@ -20,6 +20,7 @@ The serious one. Total weight (pack + sled) **120–140 lb / 55–63 kg per pers
 - 4 pairs heavy wool ski socks + 2 pair liners
 
 ## Camp shoes
+
 - Insulated booties / overboots for camp (Feathered Friends Down Booties or similar)
 - Used inside tent vestibule + short trips to "outhouse"
 
@@ -46,6 +47,7 @@ A **down suit** vs **parka + bibs** is a real choice:
 - **Insulated bibs** (Mountain Hardwear Compressor, Patagonia Macro Puff) — alternative to down suit
 
 ## Hand system — 3 gloves + 1 mittens minimum
+
 - 2 × heavy ski/leather gloves (Black Diamond Soloist, Outdoor Research Alti Heated optional)
 - 1 × light glove for camp tasks (light wool or fleece)
 - 1 × **down expedition mittens** for summit + storms (Black Diamond Mercury Mitt, OR Alti Mitts)
@@ -53,6 +55,7 @@ A **down suit** vs **parka + bibs** is a real choice:
 - VBL gloves (Latex/vapor barrier) for inside outer mittens summit day
 
 ## Head
+
 - Sun hat / ball cap (lower mountain)
 - Warm beanie × 2
 - Balaclava (mid-weight)
@@ -63,6 +66,7 @@ A **down suit** vs **parka + bibs** is a real choice:
 - Helmet (Petzl Meteor — fits with balaclava)
 
 ## Climbing hardware
+
 - **Crampons:** 12-pt steel, semi-auto/auto for plastic boots, anti-balling plates. Petzl Sarken/Lynx, BD Sabretooth Pro
 - **Ice axe:** 60 cm walking axe (Petzl Glacier, BD Raven Pro)
 - **Technical second tool (optional):** light technical axe for fixed lines if cracking ice. Most parties skip.
@@ -78,16 +82,19 @@ A **down suit** vs **parka + bibs** is a real choice:
 - **Rope:** 1 × 60 m × 8.5 mm dry-treated half rope per team
 
 ## Sled / hauling
+
 - **Paris expedition sled** (60") with 2 holes for rope attachment — most common
 - OR **CMU pulk** if planning to ski (heavier)
 - **Hauling harness:** 2 × bungee cords + waist belt that connects to sled tow lines
 - **Tow rope:** 6 m of 5 mm static cord with carabiners both ends — for safety/rescue from crevasse
 
 ## Snowshoes / skis
+
 - **Snowshoes:** MSR Lightning Ascent 30" — standard, fits all conditions
 - **Skis:** ski mountaineering setup if you ski well; faster on the Kahiltna but heavier and forgiveness lower on crevasse breakthrough
 
 ## Tent & sleep system
+
 - **Tent:** 4-season expedition (Hilleberg Keron 3 GT or Black Diamond First Light with vestibule add-on, MSR Access 3)
 - **Footprint** (custom-cut Tyvek)
 - **Snow stakes ×8** (V-stakes or T-stakes)
@@ -104,6 +111,7 @@ A **down suit** vs **parka + bibs** is a real choice:
 - **Earplugs** (storm noise in tent)
 
 ## Stoves / fuel / food
+
 - **Stove × 2** — MSR XGK EX (white gas) for redundancy. White gas only, not iso-butane (too cold above 14k).
 - **Stove maintenance kit:** spare pump, jet cleaner, O-rings
 - **Pots:** MSR Alpine 1.5 L + 2 L (1 per person, but team-shared cooking)
@@ -122,6 +130,7 @@ A **down suit** vs **parka + bibs** is a real choice:
   - **High-altitude appetite suppression:** plan small, calorie-dense, easy-to-stomach items for above 14k (gels, candies, broth, oatmeal)
 
 ## Water & sanitation
+
 - 2 × 1L Nalgene wide-mouth bottles (insulated covers)
 - 1 × thermos 750 ml (Hydro Flask or similar)
 - Chlorine dioxide tabs / drops (Aquatabs) — backup
@@ -132,6 +141,7 @@ A **down suit** vs **parka + bibs** is a real choice:
 - Toilet paper in a ziploc
 
 ## Personal
+
 - Headlamp Petzl Actik Core / Nao + 4 sets spare batteries (or 2 spare lithium AAAs)
 - Watch with altimeter (Suunto, Garmin Fenix)
 - Sunscreen mineral SPF 50 (3 × 100 ml tubes for trip)
@@ -152,6 +162,7 @@ A **down suit** vs **parka + bibs** is a real choice:
   - Extra batteries
 
 ## First aid (expedition)
+
 - Personal Rx + 30% extras + photos of labels
 - **Acetazolamide (Diamox)** — 125 mg × 30 tabs prophylactic + treatment
 - **Dexamethasone** — 4 mg × 10 tabs (HACE emergency, **doctor-prescribed**)
@@ -167,6 +178,7 @@ A **down suit** vs **parka + bibs** is a real choice:
 - SOL Escape bivy bag (emergency)
 
 ## Electronics
+
 - Garmin inReach Mini 2 — mandatory
 - Charger / solar panel (Goal Zero Nomad 7 / 10 + Sherpa battery bank) — important for 3 weeks
 - Phone (offline maps preloaded — CalTopo + Gaia)
@@ -177,10 +189,12 @@ A **down suit** vs **parka + bibs** is a real choice:
 - USB-C cable, microUSB, lightning (whatever your devices need)
 
 ## Pack
+
 - **Pack 75–90 L** with frame (Black Diamond Speed Zip, Hyperlite Ice Pack, Gregory Denali — yes, that's the actual name) — must be able to carry 70 lb comfortably
 - **Pack liner** (heavy trash compactor bag or HMG cuben fiber pack liner)
 
 ## Toiletries / paperwork
+
 - Passport (US citizens technically don't need one but useful)
 - Climbing permit confirmation + printout
 - Insurance cards (Global Rescue, AAC, primary US health)
@@ -220,4 +234,4 @@ A **down suit** vs **parka + bibs** is a real choice:
 - [ ] Confirm air taxi booking + pickup time
 
 ## Cross-references
-[[Gear System Overview]] · [[Denali — West Buttress]] · [[Denali Weather & Conditions]] · [[Health & Acclimatization]] · [[Training Plan]] · [[Technical Skills]]
+[[index|West Buttress route]] · [[Weather & Conditions]] · [[Health & Acclimatization]] · [[Training & Skills]]
